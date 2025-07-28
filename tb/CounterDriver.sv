@@ -1,7 +1,7 @@
 /********************************************************************************
  * Verification of 4-bit Synchronous Loadable Up-Down Counter
  *
- * Author		   : Chaitra
+ * Author	   : Chaitra
  *
  * File name       : CounterDriver.sv
  *
@@ -35,18 +35,14 @@ class count_drv;
 
     /*packet-to-pin conversion*/
     virtual task drive();
-        forever 
-			begin
-				
-				gen2drv.get(data2drv);	/*get packet from the mailbox sent by generator*/
-				@(posedge drv_if.drv_cb);	/*one clock cycle delay*/
+		gen2drv.get(data2drv);	/*get packet from the mailbox sent by generator*/
+		@(drv_if.drv_cb);	/*one clock cycle delay*/
 
-				/*convert the packets and drive the signals to the DUT*/
-				drv_if.drv_cb.din     <= data2drv.din;
-				drv_if.drv_cb.load    <= data2drv.load;
-				drv_if.drv_cb.up_down <= data2drv.up_down;
-				drv_if.drv_cb.resetn  <= data2drv.resetn;
-			end
+		/*convert the packets and drive the signals to the DUT*/
+		drv_if.drv_cb.din     <= data2drv.din;
+		drv_if.drv_cb.load    <= data2drv.load;
+		drv_if.drv_cb.up_down <= data2drv.up_down;
+		drv_if.drv_cb.resetn  <= data2drv.resetn;
     endtask: drive
 
     /*start() method*/
