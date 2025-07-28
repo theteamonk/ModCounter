@@ -33,16 +33,16 @@ always @(posedge clock)
 			count <= 4'b0000;
 		else if (load)
 			count <= din;
-		else if (up_down == 0)  /* UP Counting */
+		else if (up_down == 0)  		/* UP Counting */
 			begin
-				if (count > 4'd10)
+				if (count == 4'd10)
 				count <= 4'b0000;
 			else
 				count <= count + 1'b1;
 			end
-		else  					/* DOWN Counting */
+		else if (up_down == 1)				/* DOWN Counting */
 			begin
-				if ((count > 4'd10) || (count < 4'd2))
+				if (count == 4'd0)
 				count <= 4'd10;
 			else
 				count <= count - 1'b1;
