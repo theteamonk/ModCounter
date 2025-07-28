@@ -1,0 +1,2720 @@
+Command: /home1/WBRN25/Chaithrashree/VLSI_RN_ONLINE/SV_LABS/ModCounter/sim/./simv -a vcs.log +fsdbfile+wave_file1.fsdb -cm_dir ./cov1 +ntb_random_seed +TestCase
+Chronologic VCS simulator copyright 1991-2022
+Contains Synopsys proprietary information.
+Compiler version T-2022.06-SP1_Full64; Runtime version T-2022.06-SP1_Full64;  Jul 28 22:10 2025
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 1
+Number of data from Reference Model = 1
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 1
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 2
+Number of data from Reference Model = 2
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 2
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 3
+Number of data from Reference Model = 3
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 3
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 4
+Number of data from Reference Model = 4
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 4
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 5
+Number of data from Reference Model = 5
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 5
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 9
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 6
+Number of data from Reference Model = 6
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 6
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 3
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 7
+Number of data from Reference Model = 7
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 7
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 8
+Number of data from Reference Model = 8
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 8
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 9
+Number of data from Reference Model = 9
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 9
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 10
+Number of data from Reference Model = 10
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 10
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 11
+Number of data from Reference Model = 11
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 11
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 12
+Number of data from Reference Model = 12
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 12
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 13
+Number of data from Reference Model = 13
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 13
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 14
+Number of data from Reference Model = 14
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 14
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 8
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 15
+Number of data from Reference Model = 15
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 15
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 8
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 16
+Number of data from Reference Model = 16
+Data from Read Monitor = 8
+Data from Reference Model = 8
+Data verified = 16
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 9
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 9
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 17
+Number of data from Reference Model = 17
+Data from Read Monitor = 9
+Data from Reference Model = 9
+Data verified = 17
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 4
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 9
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 18
+Number of data from Reference Model = 18
+Data from Read Monitor = 9
+Data from Reference Model = 9
+Data verified = 18
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 19
+Number of data from Reference Model = 19
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 19
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 10
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 20
+Number of data from Reference Model = 20
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 20
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 21
+Number of data from Reference Model = 21
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 21
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 22
+Number of data from Reference Model = 22
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 22
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 8
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 23
+Number of data from Reference Model = 23
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 23
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 10
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 24
+Number of data from Reference Model = 24
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 24
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 25
+Number of data from Reference Model = 25
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 25
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 5
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 26
+Number of data from Reference Model = 26
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 26
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 2
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 27
+Number of data from Reference Model = 27
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 27
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 28
+Number of data from Reference Model = 28
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 28
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 2
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 1
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 29
+Number of data from Reference Model = 29
+Data from Read Monitor = 1
+Data from Reference Model = 1
+Data verified = 29
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 30
+Number of data from Reference Model = 30
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 30
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 9
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 31
+Number of data from Reference Model = 31
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 31
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 32
+Number of data from Reference Model = 32
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 32
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 33
+Number of data from Reference Model = 33
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 33
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 2
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 34
+Number of data from Reference Model = 34
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 34
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 9
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 35
+Number of data from Reference Model = 35
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 35
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 36
+Number of data from Reference Model = 36
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 36
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 3
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 37
+Number of data from Reference Model = 37
+Data from Read Monitor = 3
+Data from Reference Model = 3
+Data verified = 37
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 38
+Number of data from Reference Model = 38
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 38
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 2
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 39
+Number of data from Reference Model = 39
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 39
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 8
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 2
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 40
+Number of data from Reference Model = 40
+Data from Read Monitor = 2
+Data from Reference Model = 2
+Data verified = 40
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 9
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 1
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 41
+Number of data from Reference Model = 41
+Data from Read Monitor = 1
+Data from Reference Model = 1
+Data verified = 41
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 5
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 42
+Number of data from Reference Model = 42
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 42
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 43
+Number of data from Reference Model = 43
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 43
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 2
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 44
+Number of data from Reference Model = 44
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 44
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 5
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 2
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 45
+Number of data from Reference Model = 45
+Data from Read Monitor = 2
+Data from Reference Model = 2
+Data verified = 45
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 46
+Number of data from Reference Model = 46
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 46
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 47
+Number of data from Reference Model = 47
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 47
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 8
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 48
+Number of data from Reference Model = 48
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 48
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 8
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 49
+Number of data from Reference Model = 49
+Data from Read Monitor = 8
+Data from Reference Model = 8
+Data verified = 49
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 50
+Number of data from Reference Model = 50
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 50
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 7
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 51
+Number of data from Reference Model = 51
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 51
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 10
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 7
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 52
+Number of data from Reference Model = 52
+Data from Read Monitor = 7
+Data from Reference Model = 7
+Data verified = 52
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 53
+Number of data from Reference Model = 53
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 53
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 54
+Number of data from Reference Model = 54
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 54
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 8
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 55
+Number of data from Reference Model = 55
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 55
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 4
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 56
+Number of data from Reference Model = 56
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 56
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 4
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 57
+Number of data from Reference Model = 57
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 57
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 2
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 58
+Number of data from Reference Model = 58
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 58
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 2
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 59
+Number of data from Reference Model = 59
+Data from Read Monitor = 2
+Data from Reference Model = 2
+Data verified = 59
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 3
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 60
+Number of data from Reference Model = 60
+Data from Read Monitor = 3
+Data from Reference Model = 3
+Data verified = 60
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 10
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 61
+Number of data from Reference Model = 61
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 61
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 62
+Number of data from Reference Model = 62
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 62
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 5
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 63
+Number of data from Reference Model = 63
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 63
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 9
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 5
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 64
+Number of data from Reference Model = 64
+Data from Read Monitor = 5
+Data from Reference Model = 5
+Data verified = 64
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 2
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 65
+Number of data from Reference Model = 65
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 65
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 8
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 66
+Number of data from Reference Model = 66
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 66
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 4
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 9
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 67
+Number of data from Reference Model = 67
+Data from Read Monitor = 9
+Data from Reference Model = 9
+Data verified = 67
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 68
+Number of data from Reference Model = 68
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 68
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 69
+Number of data from Reference Model = 69
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 69
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 70
+Number of data from Reference Model = 70
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 70
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 7
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 71
+Number of data from Reference Model = 71
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 71
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 10
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 72
+Number of data from Reference Model = 72
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 72
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 9
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 73
+Number of data from Reference Model = 73
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 73
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 9
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 74
+Number of data from Reference Model = 74
+Data from Read Monitor = 9
+Data from Reference Model = 9
+Data verified = 74
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 8
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 75
+Number of data from Reference Model = 75
+Data from Read Monitor = 8
+Data from Reference Model = 8
+Data verified = 75
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 5
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 9
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 76
+Number of data from Reference Model = 76
+Data from Read Monitor = 9
+Data from Reference Model = 9
+Data verified = 76
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 77
+Number of data from Reference Model = 77
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 77
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 8
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 6
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 78
+Number of data from Reference Model = 78
+Data from Read Monitor = 6
+Data from Reference Model = 6
+Data verified = 78
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 4
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 8
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 79
+Number of data from Reference Model = 79
+Data from Read Monitor = 8
+Data from Reference Model = 8
+Data verified = 79
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 80
+Number of data from Reference Model = 80
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 80
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 8
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 81
+Number of data from Reference Model = 81
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 81
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 82
+Number of data from Reference Model = 82
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 82
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 83
+Number of data from Reference Model = 83
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 83
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 9
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 84
+Number of data from Reference Model = 84
+Data from Read Monitor = 9
+Data from Reference Model = 9
+Data verified = 84
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 9
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 8
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 85
+Number of data from Reference Model = 85
+Data from Read Monitor = 8
+Data from Reference Model = 8
+Data verified = 85
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 7
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 86
+Number of data from Reference Model = 86
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 86
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 87
+Number of data from Reference Model = 87
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 87
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 4
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 88
+Number of data from Reference Model = 88
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 88
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 5
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 4
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 89
+Number of data from Reference Model = 89
+Data from Read Monitor = 4
+Data from Reference Model = 4
+Data verified = 89
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 5
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 90
+Number of data from Reference Model = 90
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 90
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 8
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 1
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 91
+Number of data from Reference Model = 91
+Data from Read Monitor = 1
+Data from Reference Model = 1
+Data verified = 91
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 10
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 8
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 92
+Number of data from Reference Model = 92
+Data from Read Monitor = 8
+Data from Reference Model = 8
+Data verified = 92
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 10
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 10
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 93
+Number of data from Reference Model = 93
+Data from Read Monitor = 10
+Data from Reference Model = 10
+Data verified = 93
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 2
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 94
+Number of data from Reference Model = 94
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 94
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 9
+Load    : 0
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 95
+Number of data from Reference Model = 95
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 95
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 2
+Load    : 1
+Count   : 0
+Resetn  : 1
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 1
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 96
+Number of data from Reference Model = 96
+Data from Read Monitor = 1
+Data from Reference Model = 1
+Data verified = 96
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 9
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 2
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 97
+Number of data from Reference Model = 97
+Data from Read Monitor = 2
+Data from Reference Model = 2
+Data verified = 97
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 1
+Data In : 2
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 98
+Number of data from Reference Model = 98
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 98
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 3
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+Data not compared completely
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 99
+Number of data from Reference Model = 99
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 99
+
+
+-----------------------------------------------------
+------------------------Data from WRITE MONITOR------------------------
+UP/DOWN : 0
+Data In : 6
+Load    : 1
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+------------------------Data from READ MONITOR------------------------
+UP/DOWN : 0
+Data In : 0
+Load    : 0
+Count   : 0
+Resetn  : 0
+--------------------------------------------------
+Count Matches
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 100
+Number of data from Reference Model = 100
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 100
+
+
+-----------------------------------------------------
+------------------SCOREBOARD REPORT------------------
+
+
+Number of data from Read Monitor = 100
+Number of data from Reference Model = 100
+Data from Read Monitor = 0
+Data from Reference Model = 0
+Data verified = 100
+
+
+-----------------------------------------------------
+$finish called from file "../test/CounterTop.sv", line 46.
+$finish at simulation time                 1990
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 1990
+CPU Time:      0.480 seconds;       Data structure size:   0.0Mb
+Mon Jul 28 22:10:59 2025
