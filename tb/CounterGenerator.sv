@@ -28,8 +28,8 @@ class count_gen;
 
     /*overriding new constructor*/
     function new(mailbox #(count_trans) gen2drv);
+	this.trans_h = new();       /*creating object of transaction class*/
         this.gen2drv = gen2drv;     /*passing gen2drv mailbox information*/
-        this.trans_h = new();       /*creating object of transaction class*/
     endfunction: new
 
     /* start() method*/
