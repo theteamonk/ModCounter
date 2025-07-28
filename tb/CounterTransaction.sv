@@ -26,11 +26,11 @@ class count_trans;
 
     /*Constraints*/
 
-    // Constraint for din, set membership:
-    // As din is of logic type (4 states), we are constraining it to
-    // take values 1 to 8 (2^3 = 8) and not 0 because
-    // we have resetn that pulls down the output to 0
-    constraint C1 { din inside {[1:8]}; }
+    /* Constraint for din, set membership:
+     As din is of logic type (4 states), we are constraining it to
+     take values 1 to 15 and not 0 because
+     we have resetn that pulls down the output to 0*/
+    constraint C1 { din inside {[2:10]}; }
 
     // Constraint for load: distribution of 1s vs 0s
     constraint C2 { load dist {1 := 30, 0 := 70}; }
@@ -39,7 +39,7 @@ class count_trans;
     constraint C3 { up_down dist {1 := 50, 0 := 50}; }
 
     // Constraint for resetn: equal probability
-    constraint C4 { resetn dist {1 := 50, 0 := 50}; }
+    constraint C4 { resetn dist {1 := 40, 0 := 60}; }
 
     /*Display method*/
     // Components can call this method to display packets
