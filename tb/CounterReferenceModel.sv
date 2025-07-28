@@ -33,8 +33,8 @@ class count_rm;
 	endfunction: new
 
 	/*replicating DUT logic*/
-	virtual task count_mod (count_trans counter_rm)	/*passing txn class as an argument*/
-		if (!counter_rm.resetn)						/*if resetn is high (active low) it resets the counter*/
+	virtual task count_mod (count_trans counter_rm);	/*passing txn class as an argument*/
+		if(!counter_rm.resetn)						/*if resetn is high (active low) it resets the counter*/
 				ref_count <= 4'b0000;	
 					
 		else if (counter_rm.load)					/*if load is high, loads the data into the data input*/
@@ -42,7 +42,7 @@ class count_rm;
 				
 		else if (counter_rm.up_down == 0)  			/* UP Counting */
 			begin
-				if (ref_count > 4'd11)				/*if the count is > to 11, resets the counter*/
+				if (ref_count == 4'd10)				/*if the count is > to 11, resets the counter*/
 					ref_count <= 4'b0000;
 				
 				else
@@ -51,16 +51,18 @@ class count_rm;
 			
 		else if(counter_rm.up_down == 1)  			/* DOWN Counting */
 			begin
-				if ((ref_count > 4'd10) || (ref_count < 4'd2))	/*if the count is > 10 or < 2, count is 10*/
+				if (ref_count == 4'd0)	/*if the count is > 10 or < 2, count is 10*/
 					ref_count <= 4'd10;
 				else
 					ref_count <= ref_count - 1'b1;		/*else it decrements*/
 			end
 			
 		else
-			$display("--------Reference Model--------");
-			$display("Invalid count");
-			$display("-------------------------------");
+			begin
+				$display("--------Reference Model--------");
+				$display("Invalid count");
+				$display("-------------------------------");
+			end
 			
 	endtask: count_mod
 
