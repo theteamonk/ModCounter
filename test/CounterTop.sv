@@ -1,7 +1,7 @@
 /********************************************************************************
  * Verification of 4-bit Synchronous Loadable Up-Down Counter
  *
- * Author		   : Chaitra
+ * Author	   : Chaitra
  *
  * File name       : CounterTop.sv
  *
@@ -38,11 +38,11 @@ module count_top();
 
 	initial
 		begin
-			if($test$plusargs("TestCase1"))
+			if($test$plusargs("TestCase"))
 				begin
 				  count_test test_h;
 				  test_h = new(DUV_IF, DUV_IF, DUV_IF);
-				  no_of_transactions = 10;
+				  no_of_transactions = 100;
 				  test_h.build();
 				  test_h.run();
 				  $finish;
