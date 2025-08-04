@@ -35,29 +35,37 @@ class count_sb;
 	covergroup count_coverage;
 		option.per_instance = 1;
 		
-		DATA:	coverpoint cov_data.din{
-					bins ZERO	=	{0};
-					bins MID	=	{[2:5]};
-					bins HIGH	=	{[6:10]};}
+		DATA:		coverpoint cov_data.din{
+						bins ZERO	=	{0};
+						bins MID	=	{[1:5]};
+						bins HIGH	=	{[6:11]};}
 					
-		LOAD:	coverpoint cov_data.load{
-					bins LOW	=	{0};
-					bins HIGH	=	{1};}
+		DATA_OUT:	coverpoint cov_data.din{
+						bins ZERO	=	{0};
+						bins MID	=	{[2:5]};
+						bins HIGH	=	{[6:11]};}
 					
-		MODE:	coverpoint cov_data.up_down{
-					bins LOW	=	{0};
-					bins HIGH	=	{1};}
+		LOAD:		coverpoint cov_data.load{
+						bins LOW	=	{0};
+						bins HIGH	=	{1};}
 					
-		RESET:	coverpoint cov_data.resetn{
-					bins LOW	=	{1};
-					bins HIGH	=	{0};}
+		MODE:		coverpoint cov_data.up_down{
+						bins LOW	=	{0};
+						bins HIGH	=	{1};}
 					
-		COUNT:	coverpoint cov_data.count{
-					bins ZERO	=	{0};
-					bins MID	=	{[2:5]};
-					bins HIGH	=	{[6:10]};}
+		RESET:		coverpoint cov_data.resetn{
+						bins LOW	=	{1};
+						bins HIGH	=	{0};}
 					
-		DATAxLOADxMODExRESET	: cross DATA, LOAD, MODE, RESET;
+		COUNT:		coverpoint cov_data.count{
+						bins ZERO	=	{0};
+						bins MID	=	{[2:5]};
+						bins HIGH	=	{[6:10]};}
+					
+		//DATAxLOADxMODE	: cross DATA, LOAD;
+		RESETxDATA_OUT:		cross RESET, DATA_OUT;
+		RESETxLOADxMODE: 	cross RESET, LOAD, MODE;
+		
 	endgroup: count_coverage
 
 	/*overriding new constructor*/
@@ -121,3 +129,4 @@ class count_sb;
 	endtask: start
 
 endclass: count_sb
+
